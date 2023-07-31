@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @stan4leopol647
+- 👀 I’m interested in Software Engineering student specializing in C++.
+- 🌱  Fascinated by systems programming. Always ready for complex technical challenges.
